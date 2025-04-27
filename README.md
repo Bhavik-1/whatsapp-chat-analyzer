@@ -15,8 +15,7 @@ This Streamlit web app lets you upload a WhatsApp chat file and get powerful ins
 
 
 ## 🚀 Live Demo
-👉 [Use the app here](https://whatsapp-chat-analyzer-l6t4hhgcp4vpkfur3ewu9y.streamlit.app/)  
-*(Right-click and select "Open link in new tab")*
+[Live Demo](https://whatsapp-chat-analyzer-l6t4hhgcp4vpkfur3ewu9y.streamlit.app/){:target="_blank"}
 
 
 ## 📄 How to Use
